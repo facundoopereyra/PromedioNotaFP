@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromedioNotaFP", "PromedioNotaFP\PromedioNotaFP.csproj", "{12C85B3B-6387-41DA-A680-4ACE32A8FCDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12C85B3B-6387-41DA-A680-4ACE32A8FCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C85B3B-6387-41DA-A680-4ACE32A8FCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C85B3B-6387-41DA-A680-4ACE32A8FCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C85B3B-6387-41DA-A680-4ACE32A8FCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BA3C01A-8068-4BFB-AB53-18D8A07B392C}
+	EndGlobalSection
+EndGlobal
